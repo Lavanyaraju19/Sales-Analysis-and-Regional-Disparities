@@ -3,7 +3,7 @@ This project involves the analysis of sales data using Excel functions like VLOO
 manipulate datasets. The primary focus is on performing a detailed analysis of sales, target achievements, and regional disparities.
 
 Features:
-Data Categorization: Datasets are organized using Excel’s VLOOKUP to merge data from different sources and create meaningful comparisons.
+   Data Categorization: Datasets are organized using Excel’s VLOOKUP to merge data from different sources and create meaningful comparisons.
 Pivot Table Analysis: Pivot Tables are used to summarize the data, revealing insights into sales performance across regions.
 Sales Performance Analysis: The analysis identifies whether sales targets are being met and highlights regions that show significant disparities.
 Tools Used:
